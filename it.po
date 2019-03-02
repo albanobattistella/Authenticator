@@ -9,9 +9,9 @@ msgstr ""
 "Project-Id-Version: Authenticator\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-10 17:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-03-02 12:30+It\n"
+"Last-Translator: Albano BATTISTELLA <EMAIL@ADDRESS>\n"
+"Language-Team: ITALIAN <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,192 +21,193 @@ msgstr ""
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:6
 #: data/com.github.bilelmoussaoui.Authenticator.desktop.in:3
 msgid "Authenticator"
-msgstr ""
+msgstr "Authenticator"
 
 #. Night mode action
 #: Authenticator/application.py:81
 msgid "Night Mode"
-msgstr ""
+msgstr "Modalita' notte"
 
 #: Authenticator/application.py:84
 msgid "About"
-msgstr ""
+msgstr "Informazioni su"
 
 #: Authenticator/application.py:85
 msgid "Quit"
-msgstr ""
+msgstr "Esci"
 
 #: Authenticator/widgets/accounts/add.py:49
 #: Authenticator/widgets/headerbar.py:100
 msgid "Add a new account"
-msgstr ""
+msgstr "Aggiungere un nuovo account"
 
 #: Authenticator/widgets/accounts/add.py:53
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 #: Authenticator/widgets/accounts/add.py:62
 msgid "Scan QR code"
-msgstr ""
+msgstr "Scansiona codice QR"
 
 #: Authenticator/widgets/accounts/add.py:69
 #: Authenticator/widgets/accounts/edit.py:58
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 #: Authenticator/widgets/accounts/add.py:160
 msgid "Provider"
-msgstr ""
+msgstr "Provider"
 
 #: Authenticator/widgets/accounts/add.py:170
 msgid "Account name"
-msgstr ""
+msgstr "Nome account"
 
 #: Authenticator/widgets/accounts/add.py:176
 msgid "Secret token"
-msgstr ""
+msgstr "Token segreto"
 
 #: Authenticator/widgets/accounts/add.py:258
 msgid "Invalid QR code"
-msgstr ""
+msgstr "Codice QR non valido"
 
 #: Authenticator/widgets/accounts/edit.py:47
 msgid "Edit {} - {}"
-msgstr ""
+msgstr "Modifica"
 
 #: Authenticator/widgets/accounts/edit.py:52
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #: Authenticator/widgets/accounts/list.py:163
 msgid "The One-Time Passwords expires in {} seconds"
-msgstr ""
+msgstr "La One-Time Passwords scade in {} secondi"
 
 #. Label
 #: Authenticator/widgets/accounts/list.py:286
 msgid "There are no accounts yet…"
-msgstr ""
+msgstr "Non ci sono ancora account…"
 
 #: Authenticator/widgets/accounts/row.py:58
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
 #: Authenticator/widgets/accounts/row.py:59
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 #: Authenticator/widgets/accounts/row.py:149
 msgid "Couldn't generate the secret code"
-msgstr ""
+msgstr "Impossibile generare il codice segreto"
 
 #: Authenticator/widgets/about.py.in:45
 msgid "translator-credits"
-msgstr ""
+msgstr "traduttore-credits"
 
 #: Authenticator/widgets/about.py.in:47
 msgid "Two-factor authentication code generator."
-msgstr ""
+msgstr "Generatore di codici di autenticazione a due fattori."
 
 #: Authenticator/widgets/actions_bar.py:52
 msgid "Delete"
-msgstr ""
+msgstr "Elimina"
 
 #: Authenticator/widgets/headerbar.py:98
 msgid "Search"
-msgstr ""
+msgstr "Rierca"
 
 #: Authenticator/widgets/headerbar.py:102
 msgid "Settings"
-msgstr ""
+msgstr "impostazioni"
 
 #: Authenticator/widgets/headerbar.py:104
 msgid "Selection mode"
-msgstr ""
+msgstr "Modalità di selezione"
 
 #: Authenticator/widgets/headerbar.py:106
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: Authenticator/widgets/headerbar.py:181
 msgid "Click on items to select them"
-msgstr ""
+msgstr "Clicca sugli oggetti per selezionarli"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:7
 #: data/com.github.bilelmoussaoui.Authenticator.desktop.in:5
 msgid "Two-factor authentication code generator"
-msgstr ""
+msgstr "Generatore di codice di autenticazione a due fattori"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:9
 msgid ""
 "Simple application that generates a two-factor authentication code, created "
 "for GNOME."
-msgstr ""
+msgstr "Semplice applicazione che genera un codice di autenticazione a due fattori, creato "
+"per GNOME."
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:10
 msgid "Features:"
-msgstr ""
+msgstr "Caratteristiche:"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:12
 msgid "QR code scanner"
-msgstr ""
+msgstr "Scanner di codici QR"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:13
 msgid "Beautiful UI"
-msgstr ""
+msgstr "Bella UI"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:14
 msgid "Huge database of (290+) websites/applications"
-msgstr ""
+msgstr "Enorme database di siti / applicazioni (oltre 290)"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:34
 msgid "GNOME Shell Search provider"
-msgstr ""
+msgstr "Provider di ricerca shell di GNOME"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:35
 msgid "Codes expire simultaneously #91"
-msgstr ""
+msgstr "I codici scadono contemporaneamente # 91"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:42
 msgid "Revamped main window to more closely follow the GNOME HIG"
-msgstr ""
+msgstr "Finestra principale rinnovata per seguire più da vicino il GNOME HIG"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:43
 msgid "Revamped add a new account window to make it easier to use"
-msgstr ""
+msgstr "Aggiungi una nuova finestra account rimodernata per renderlo più facile da usare"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:44
 msgid ""
 "Possibility to add an account from a provider not listed in the shipped "
 "database"
-msgstr ""
+msgstr "Possibilità di aggiungere un account da un provider non elencato nella spedizione"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:45
 msgid "Possibilty to edit an account"
-msgstr ""
+msgstr "Possibilità di modificare un account"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:46
 msgid "One Time Password now visible by default"
-msgstr ""
+msgstr "One Time Password ora visibile per impostazione predefinita"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:53
 msgid "Fix python-dbus by using GDbus instead"
-msgstr ""
+msgstr "Correggere python-dbus usando GDbus"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:60
 msgid "Fix the QRScanner on GNOME Shell"
-msgstr ""
+msgstr "Correggere lo scanner QR sulla shell GNOME"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:61
 msgid "Add a new entry for the account's username"
-msgstr ""
+msgstr "Aggiungi una nuova voce per il nome utente dell'account"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:62
 msgid "Updated database of supported accounts"
-msgstr ""
+msgstr "Database aggiornato degli account supportati"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:69
 msgid "HOTFIX: App not running in DE other than GNOME"
-msgstr ""
+msgstr "HOTFIX: App non in esecuzione in DE diversa da GNOME"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:76
 msgid "Rename project to Authenticator"
