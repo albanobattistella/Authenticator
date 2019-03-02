@@ -11,7 +11,7 @@ msgstr ""
 "POT-Creation-Date: 2018-09-10 17:56+0200\n"
 "PO-Revision-Date: 2019-03-02 12:30+It\n"
 "Last-Translator: Albano BATTISTELLA <EMAIL@ADDRESS>\n"
-"Language-Team: ITALIAN <LL@li.org>\n"
+"Language-Team: ITALIAN-Zorin Team <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,48 +211,48 @@ msgstr "HOTFIX: App non in esecuzione in DE diversa da GNOME"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:76
 msgid "Rename project to Authenticator"
-msgstr ""
+msgstr "Rinominare il progetto in Authenticator"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:77
 msgid "Cleaner code base"
-msgstr ""
+msgstr "Pulitore di codice base"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:78
 msgid "Faster startup"
-msgstr ""
+msgstr "Avvio più veloce"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:79
 msgid "Remove unneeded features"
-msgstr ""
+msgstr "Rimuovi le funzionalità non necessarie"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:80
 msgid "Switch to pyzbar instead of zbarlight"
-msgstr ""
+msgstr "Passa a pyzbar invece di zbarlight"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:81
 msgid "Flatpak package"
-msgstr ""
+msgstr "Pacchetto Flatpak"
 
 #: data/com.github.bilelmoussaoui.Authenticator.appdata.xml.in:88
 msgid "Bilal Elmoussaoui"
-msgstr ""
+msgstr "Bilal Elmoussaoui"
 
 #: data/com.github.bilelmoussaoui.Authenticator.desktop.in:4
 msgid "Two-factor authentication"
-msgstr ""
+msgstr "Autenticazione a due fattori"
 
 #: data/com.github.bilelmoussaoui.Authenticator.desktop.in:10
 msgid "Gnome;GTK;Verification;"
-msgstr ""
+msgstr "Gnome; GTK; verifica;"
 
 #: data/com.github.bilelmoussaoui.Authenticator.desktop.in:11
 msgid "com.github.bilelmoussaoui.Authenticator"
-msgstr ""
+msgstr "com.github.bilelmoussaoui.Authenticator"
 
 #: authenticator.py.in:49
 msgid "Start in debug mode"
-msgstr ""
+msgstr "Inizia in modalità di debug"
 
 #: authenticator.py.in:51
 msgid "Authenticator version number"
-msgstr ""
+msgstr "Numero di versione di Authenticator"
